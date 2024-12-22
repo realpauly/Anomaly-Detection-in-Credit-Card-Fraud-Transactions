@@ -1,5 +1,5 @@
 # Anomaly Detection in Credit Card Fraud Transactions
-
+![](Anomaly.png)
 ## Introduction
 
 Anomaly detection involves identifying instances in a dataset that significantly
